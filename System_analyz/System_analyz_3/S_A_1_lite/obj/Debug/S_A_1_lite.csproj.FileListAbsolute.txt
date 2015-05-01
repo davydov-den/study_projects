@@ -1,0 +1,84 @@
+c:\users\давыдов\documents\visual studio 2012\Projects\S_A_1_lite\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+c:\users\давыдов\documents\visual studio 2012\Projects\S_A_1_lite\S_A_1_lite\bin\Debug\S_A_1_lite.exe
+c:\users\давыдов\documents\visual studio 2012\Projects\S_A_1_lite\S_A_1_lite\bin\Debug\S_A_1_lite.pdb
+c:\users\давыдов\documents\visual studio 2012\Projects\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
+c:\users\давыдов\documents\visual studio 2012\Projects\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
+c:\users\давыдов\documents\visual studio 2012\Projects\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache
+c:\users\давыдов\documents\visual studio 2012\Projects\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+c:\users\давыдов\documents\visual studio 2012\Projects\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\documents\visual studio 2012\Projects\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.csprojResolveAssemblyReference.cache
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\bin\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\bin\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.csprojResolveAssemblyReference.cache
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_1_lite\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_1_lite\S_A_1_lite\bin\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_1_lite\S_A_1_lite\bin\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_1_lite\S_A_1_lite\obj\Debug\S_A_1_lite.csprojResolveAssemblyReference.cache
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.csprojResolveAssemblyReference.cache
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache
+Z:\6 семестр\Системный анализ\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+Z:\6 семестр\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+Z:\6 семестр\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.pdb
+Z:\6 семестр\Системный анализ\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.exe
+Z:\6 семестр\Системный анализ\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.pdb
+Z:\6 семестр\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.csprojResolveAssemblyReference.cache
+Z:\6 семестр\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
+Z:\6 семестр\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
+Z:\6 семестр\Системный анализ\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache
+C:\Users\Давыдовы\Desktop\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+C:\Users\Давыдовы\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+C:\Users\Давыдовы\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.pdb
+C:\Users\Давыдовы\Desktop\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.exe
+C:\Users\Давыдовы\Desktop\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.pdb
+C:\Users\Давыдовы\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.csprojResolveAssemblyReference.cache
+C:\Users\Давыдовы\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
+C:\Users\Давыдовы\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
+C:\Users\Давыдовы\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache
+C:\Users\Давыдов\Desktop\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+C:\Users\Давыдов\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\S_A_2\S_A_1_lite\bin\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.csprojResolveAssemblyReference.cache
+C:\Users\Давыдов\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
+C:\Users\Давыдов\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
+C:\Users\Давыдов\Desktop\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_3\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_3\S_A_1_lite\bin\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_3\S_A_1_lite\bin\Debug\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache
+C:\Users\Давыдов\Desktop\koding time\Системный анализ\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.csprojResolveAssemblyReference.cache
+C:\Users\d.morozov.2012\Desktop\S_A_3\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+C:\Users\d.morozov.2012\Desktop\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+C:\Users\d.morozov.2012\Desktop\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.pdb
+C:\Users\d.morozov.2012\Desktop\S_A_3\S_A_1_lite\bin\Debug\S_A_1_lite.exe
+C:\Users\d.morozov.2012\Desktop\S_A_3\S_A_1_lite\bin\Debug\S_A_1_lite.pdb
+C:\Users\d.morozov.2012\Desktop\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.csprojResolveAssemblyReference.cache
+C:\Users\d.morozov.2012\Desktop\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
+C:\Users\d.morozov.2012\Desktop\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
+C:\Users\d.morozov.2012\Desktop\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache
+C:\Users\Давыдов\Desktop\koding time\S_A_3\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+C:\Users\Давыдов\Desktop\koding time\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\koding time\S_A_3\S_A_1_lite\obj\Debug\S_A_1_lite.pdb

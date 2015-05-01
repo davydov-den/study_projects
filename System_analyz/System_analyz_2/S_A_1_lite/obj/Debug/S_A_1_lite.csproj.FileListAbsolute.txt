@@ -55,3 +55,12 @@ C:\Users\Давыдов\Desktop\koding time\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lit
 C:\Users\Давыдов\Desktop\koding time\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
 C:\Users\Давыдов\Desktop\koding time\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
 C:\Users\Давыдов\Desktop\koding time\S_A_2\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache
+C:\Users\Давыдовы\Documents\GitHub\study_projects\System_analyz\System_analyz_2\S_A_1_lite\bin\Debug\S_A_1_lite.exe.config
+C:\Users\Давыдовы\Documents\GitHub\study_projects\System_analyz\System_analyz_2\S_A_1_lite\obj\Debug\S_A_1_lite.exe
+C:\Users\Давыдовы\Documents\GitHub\study_projects\System_analyz\System_analyz_2\S_A_1_lite\obj\Debug\S_A_1_lite.pdb
+C:\Users\Давыдовы\Documents\GitHub\study_projects\System_analyz\System_analyz_2\S_A_1_lite\bin\Debug\S_A_1_lite.exe
+C:\Users\Давыдовы\Documents\GitHub\study_projects\System_analyz\System_analyz_2\S_A_1_lite\bin\Debug\S_A_1_lite.pdb
+C:\Users\Давыдовы\Documents\GitHub\study_projects\System_analyz\System_analyz_2\S_A_1_lite\obj\Debug\S_A_1_lite.csprojResolveAssemblyReference.cache
+C:\Users\Давыдовы\Documents\GitHub\study_projects\System_analyz\System_analyz_2\S_A_1_lite\obj\Debug\S_A_1_lite.Form1.resources
+C:\Users\Давыдовы\Documents\GitHub\study_projects\System_analyz\System_analyz_2\S_A_1_lite\obj\Debug\S_A_1_lite.Properties.Resources.resources
+C:\Users\Давыдовы\Documents\GitHub\study_projects\System_analyz\System_analyz_2\S_A_1_lite\obj\Debug\S_A_1_lite.csproj.GenerateResource.Cache

@@ -1,0 +1,10 @@
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\bin\Release\S_A_1_lite.exe.config
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\bin\Release\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\bin\Release\S_A_1_lite.pdb
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Release\S_A_1_lite.Form1.resources
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Release\S_A_1_lite.Form2.resources
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Release\S_A_1_lite.Form3.resources
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Release\S_A_1_lite.Properties.Resources.resources
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Release\S_A_1_lite.csproj.GenerateResource.Cache
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Release\S_A_1_lite.exe
+C:\Users\Давыдов\Desktop\S_A_1_lite\S_A_1_lite\obj\Release\S_A_1_lite.pdb
