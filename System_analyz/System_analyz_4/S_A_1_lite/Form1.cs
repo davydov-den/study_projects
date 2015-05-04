@@ -135,7 +135,7 @@ namespace S_A_1_lite
             for (int i = 0; i < kol_alt;i++)
             {
                 dataGridView2.Columns.Add((i+1).ToString(), "Z" + (i + 1).ToString());
-                dataGridView2.Columns[dataGridView2.Columns.Count - 1].Width = 30;
+                dataGridView2.Columns[dataGridView2.Columns.Count - 1].Width = 40;
                 dataGridView2.Rows.Add();
                 dataGridView2.Rows[i].HeaderCell.Value = "Z" + (i+1).ToString();
                 
@@ -145,7 +145,7 @@ namespace S_A_1_lite
                 for (int k = 0; k < kol_alt; k++)
                     if(k!=i)
                     dataGridView2[k, i].Value = tmp[k, i];
-            comboBox5.SelectedIndex = 0;
+            //comboBox5.SelectedIndex = 0;
             current_table = 0;
 
 
@@ -191,14 +191,14 @@ namespace S_A_1_lite
 
             float[,] tmp = new float[20, 20];
             float[,] tmp2 = new float[20, 20];
-            tmp2 = (float[,])Tables[comboBox5.SelectedIndex];
-            Tables.Remove(comboBox5.SelectedIndex);
+           // tmp2 = (float[,])Tables[comboBox5.SelectedIndex];
+            //Tables.Remove(comboBox5.SelectedIndex);
             for (int i = 0; i < kol_alt; i++)
                 for (int j = 0; j < kol_alt; j++)
                     if (i != j)
                         tmp[i, j] = (float)System.Convert.ToDouble(dataGridView2[i, j].Value);
-            Tables.Insert(comboBox5.SelectedIndex, tmp);
-            current_table = comboBox5.SelectedIndex;
+           // Tables.Insert(comboBox5.SelectedIndex, tmp);
+         //   current_table = comboBox5.SelectedIndex;
 
 
 
