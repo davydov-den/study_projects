@@ -14,8 +14,7 @@ namespace S_A_1_lite
 {
     class calculate
     {
-        int n_new=6;
-        int kol_exp = 4;
+        int n_new;
         double R = 0;
         public DataGridView[] start_calculate(DataGridView dataGridView2, DataGridView dataGridView3, DataGridView dataGridView5, DataGridView dat, int kol_round, DataGridView dataGridView4)
         {
@@ -23,8 +22,6 @@ namespace S_A_1_lite
             DataGridView dataGridView1 = new DataGridView();
             dataGridView1 = dat;
             n_new = dataGridView2.Columns.Count;
-            n_new =6;
-
             int[] numbers = new int[n_new];
             double[] Vi = new double[n_new];
             double tmp = 0;
@@ -51,19 +48,17 @@ namespace S_A_1_lite
                     dataGridView3.Rows.Add();
                 dataGridView3[1, i].Value = Math.Round(Vi[i], kol_round);
             }
-            string[] textBox3 = new string[n_new];
-            for (int i = 0; i < n_new; i++)
-                textBox3[i] = (string)dataGridView5[0, i].Value;
-                numbers = sortirovka2(textBox3, Vi);
+
+          //  numbers = sortirovka2(textBox3.Lines, Vi);
             for (int i = 0; i < n_new; i++)
             {
-                string temp = textBox3[numbers[i]];
-                string temp2 = textBox3[numbers[i]].Substring(2, textBox3[numbers[i]].Length - 2);
+               // string temp = textBox3.Lines[numbers[i]];
+               // string temp2 = textBox3.Lines[numbers[i]].Substring(2, textBox3.Lines[numbers[i]].Length - 2);
                 dataGridView1.Rows.Add();
                 double prior = System.Convert.ToDouble(dataGridView3[1, numbers[i]].Value);
-                dataGridView1[0, i].Value = temp[0];
+              //  dataGridView1[0, i].Value = temp[0];
                 dataGridView1[1, i].Value = Math.Round(prior, kol_round);
-                dataGridView1[2, i].Value = temp2;
+               // dataGridView1[2, i].Value = temp2;
             }
             date[0] = dataGridView1;
             date[1] = dataGridView3;

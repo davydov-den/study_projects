@@ -108,7 +108,6 @@
             this.button8 = new System.Windows.Forms.Button();
             this.button9 = new System.Windows.Forms.Button();
             this.panel4 = new System.Windows.Forms.Panel();
-            this.textBox9 = new System.Windows.Forms.TextBox();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
@@ -154,7 +153,7 @@
             this.dataGridView1.RowHeadersWidthSizeMode = System.Windows.Forms.DataGridViewRowHeadersWidthSizeMode.DisableResizing;
             this.dataGridView1.ScrollBars = System.Windows.Forms.ScrollBars.Vertical;
             this.dataGridView1.ShowEditingIcon = false;
-            this.dataGridView1.Size = new System.Drawing.Size(567, 126);
+            this.dataGridView1.Size = new System.Drawing.Size(567, 163);
             this.dataGridView1.TabIndex = 136;
             this.dataGridView1.Visible = false;
             // 
@@ -164,7 +163,7 @@
             this.groupBox1.Enabled = false;
             this.groupBox1.Location = new System.Drawing.Point(12, 409);
             this.groupBox1.Name = "groupBox1";
-            this.groupBox1.Size = new System.Drawing.Size(581, 151);
+            this.groupBox1.Size = new System.Drawing.Size(581, 188);
             this.groupBox1.TabIndex = 137;
             this.groupBox1.TabStop = false;
             this.groupBox1.Text = "Результат";
@@ -172,7 +171,6 @@
             // 
             // groupBox2
             // 
-            this.groupBox2.Controls.Add(this.textBox9);
             this.groupBox2.Controls.Add(this.comboBox5);
             this.groupBox2.Controls.Add(this.dataGridView2);
             this.groupBox2.Location = new System.Drawing.Point(12, 137);
@@ -917,18 +915,11 @@
             this.panel4.Size = new System.Drawing.Size(200, 100);
             this.panel4.TabIndex = 154;
             // 
-            // textBox9
-            // 
-            this.textBox9.Location = new System.Drawing.Point(158, 14);
-            this.textBox9.Name = "textBox9";
-            this.textBox9.Size = new System.Drawing.Size(100, 20);
-            this.textBox9.TabIndex = 132;
-            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(614, 411);
+            this.ClientSize = new System.Drawing.Size(614, 603);
             this.Controls.Add(this.groupBox6);
             this.Controls.Add(this.groupBox10);
             this.Controls.Add(this.groupBox3);
@@ -951,7 +942,6 @@
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
             this.groupBox1.ResumeLayout(false);
             this.groupBox2.ResumeLayout(false);
-            this.groupBox2.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView2)).EndInit();
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
@@ -1069,7 +1059,6 @@
         private System.Windows.Forms.ComboBox comboBox4;
         private System.Windows.Forms.DataGridView dataGridView2;
         private System.Windows.Forms.ComboBox comboBox5;
-        private System.Windows.Forms.TextBox textBox9;
 
 
     }

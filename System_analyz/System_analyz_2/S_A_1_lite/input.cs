@@ -52,19 +52,19 @@ namespace S_A_1_lite
                 string[] lines = System.IO.File.ReadAllLines("input" + (number+2).ToString() + ".txt", Encoding.UTF8);
                 foreach (string line in lines)
                 {
-                    if (i < 6)
+                    if (i < n)
                     {
                         temp = line;
                         dataGridView5.Rows.Add();
                         dataGridView5[0, i].Value =(i + 1).ToString() + ". " + temp;
                     }
                     else
-                        if (i == 6)
+                        if (i == n)
                             textBox2.Text = line;
                         else
                         {
                             dataGridView4.Rows.Add();
-                            dataGridView4[0,i-6-1].Value = line;
+                            dataGridView4[0,i-n-1].Value = line;
                         }
                     i++;
                 }
@@ -74,8 +74,7 @@ namespace S_A_1_lite
             {
                 MessageBox.Show("Файл отсутствует", "Ошибка!");
             }
-            n = 6;
-            kol_expert = 4;
+
             for (int j = 0; j < n; j++)
             {
                 dataGridView2.Columns.Add(j.ToString(), "Z" + (j + 1).ToString());

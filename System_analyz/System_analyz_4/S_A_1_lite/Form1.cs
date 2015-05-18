@@ -145,7 +145,7 @@ namespace S_A_1_lite
                 for (int k = 0; k < kol_alt; k++)
                     if(k!=i)
                     dataGridView2[k, i].Value = tmp[k, i];
-            //comboBox5.SelectedIndex = 0;
+            comboBox5.SelectedIndex = 0;
             current_table = 0;
 
 
@@ -191,14 +191,14 @@ namespace S_A_1_lite
 
             float[,] tmp = new float[20, 20];
             float[,] tmp2 = new float[20, 20];
-           // tmp2 = (float[,])Tables[comboBox5.SelectedIndex];
-            //Tables.Remove(comboBox5.SelectedIndex);
+            tmp2 = (float[,])Tables[comboBox5.SelectedIndex];
+            Tables.Remove(comboBox5.SelectedIndex);
             for (int i = 0; i < kol_alt; i++)
                 for (int j = 0; j < kol_alt; j++)
                     if (i != j)
                         tmp[i, j] = (float)System.Convert.ToDouble(dataGridView2[i, j].Value);
-           // Tables.Insert(comboBox5.SelectedIndex, tmp);
-         //   current_table = comboBox5.SelectedIndex;
+            Tables.Insert(comboBox5.SelectedIndex, tmp);
+            current_table = comboBox5.SelectedIndex;
 
 
 
@@ -648,24 +648,26 @@ namespace S_A_1_lite
 
         private void comboBox5_SelectedIndexChanged(object sender, EventArgs e)
         {
-            textBox9.Text = Tables.Count.ToString();
-            float[,] tmp = new float[20, 20];
-            float[,] tmp2 = new float[20, 20];
-            tmp2 = (float[,])Tables[comboBox5.SelectedIndex];
-            
-            for (int i = 0; i < kol_alt; i++)
-                for (int j = 0; j < kol_alt; j++)
-                    if (i != j)
-                        tmp[i, j] = (float)System.Convert.ToDouble(dataGridView2[i, j].Value);
-            for (int i = 0; i < kol_alt; i++)
+            if (comboBox5.SelectedIndex != current_table)
             {
-                for (int j = 0; j < kol_alt; j++)
-                    dataGridView2[i, j].Value = tmp2[i, j];
-                dataGridView2[i, i].Value = "";
+                float[,] tmp = new float[20, 20];
+                float[,] tmp2 = new float[20, 20];
+                tmp2 = (float[,])Tables[comboBox5.SelectedIndex];
+
+                for (int i = 0; i < kol_alt; i++)
+                    for (int j = 0; j < kol_alt; j++)
+                        if (i != j)
+                            tmp[i, j] = (float)System.Convert.ToDouble(dataGridView2[i, j].Value);
+                for (int i = 0; i < kol_alt; i++)
+                {
+                    for (int j = 0; j < kol_alt; j++)
+                        dataGridView2[i, j].Value = tmp2[i, j];
+                    dataGridView2[i, i].Value = "";
+                }
+                Tables.RemoveAt(comboBox5.SelectedIndex);
+                Tables.Insert(current_table, tmp);
+                current_table = comboBox5.SelectedIndex;
             }
-            Tables.RemoveAt(comboBox5.SelectedIndex);
-            Tables.Insert(current_table, tmp);
-            current_table = comboBox5.SelectedIndex;
         }
 
 
